@@ -4,7 +4,7 @@ A simple dictionary-based hash cracker written in Go.
 
 ## Features
 
-* Supports: MD5, SHA-256, SHA-512, SHA3-256, SHA3-512
+* Supports: MD4, MD5, SHA-256, SHA-512, SHA3-256, SHA3-512...
 * Wordlist-based cracking
 * Optional rate limit per second
 
