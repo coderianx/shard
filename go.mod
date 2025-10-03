@@ -9,6 +9,9 @@ require (
 )
 
 require (
+	github.com/cxmcc/tiger v0.0.0-20170524142333-bde35e2713d7 // indirect
 	github.com/klauspost/cpuid/v2 v2.3.0 // indirect
+	github.com/mimoo/GoKangarooTwelve v0.0.0-20180211155453-f494cd819f1c // indirect
+	github.com/tobischo/argon2 v0.1.0 // indirect
 	golang.org/x/sys v0.36.0 // indirect
 )
