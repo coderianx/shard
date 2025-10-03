@@ -10,7 +10,7 @@ A simple dictionary-based hash cracker written in Go.
 
 ## Requirements
 
-* Go 1.20+ (Linux/macOS)
+* Go 1.21+ (Linux/macOS)
 
 ## Installation & Run
 
@@ -23,7 +23,7 @@ go run main.go     # Run without build
 
 ## Usage
 
-1. Choose hash type (1-5)
+1. Choose hash type (1-30)
 2. Enter the hash
 3. Enter wordlist path
 4. Optionally set speed (workers)
